@@ -50,20 +50,38 @@ Este fichero será colaborativo.
 
 
 
-## Indice
+## Índice
 
-- [Data privacy vaults](data-privacy-vaults/README.md)
-- [Auditorías](auditorias/README.md)
-  - [Ejemplo de auditoria](auditorias/ejemplo_auditoria_Anthropic.md)
+### Técnicas de Privacidad y Seguridad
+- [Bóvedas de Privacidad de Datos / Data privacy vaults](data-privacy-vaults/README.md)
+- [Bóvedas de Privacidad de Datos / Data privacy vaults 2](bovedas_privacidad_datos/README.md)
 - [De-identificación](de-identificacion/README.md)
 - [Generación de datos sintéticos](generacion_de_datos_sinteticos/README.md)
-- [LLMs Locales - DFO](llms-locales-DFO/README.md)  
-- [Filtros de Respuestas](filtros-de-respuestas/README.md)  
-- [Red-Teaming y Simulación de Ataques](red-teaming/README.md)  
-- [Jailbreaking](jailbreaking/README.md)  
+- [Perturbación de Datos](perturbacion-de-datos/README.md)
+- [Filtros de Respuestas](filtros-de-respuestas/README.md)
+- [Aprendizaje Federado](aprendizaje-federado/README.md)
+- [Privacidad Diferencial](privacidad-diferencial/README.md)
+- [Computación Multi-partita Segura](computacion-multi-partita-segura/README.md)
+- [Enclaves Seguros](enclaves-seguros/README.md)
+- [Cifrado Homomórfico](cifrado-homomorfico/README.md)
+
+
+### LLMs Locales
+- [LLMs Locales](llms-locales-DFO/README.md)
+- [LLMs Locales 2](LLMs-LOCALES-TMS/LLMs-LOCALES/README.md)
+- [Instalación de LLMs Locales en Cursor](LLMs-locales/res/README.md)
+
+
+### Evaluación y Pruebas de Seguridad
+- [Auditorías](auditorias/README.md)
+  - [Ejemplo de auditoria](auditorias/ejemplo_auditoria_Anthropic.md)
+- [Red-Teaming y Simulación de Ataques](red-teaming/README.md)
+- [Jailbreaking](jailbreaking/README.md)
+
+### Aspectos Legales y Éticos
 - [Derechos de Autor](AI4Devs-Copyrights-&-Derechos-de-autor-MADV/README.md)
-- [Generación de Datos Sintéticos](generacion_de_datos_sinteticos/README.md)
-- [LLMs Locales](LLMs-locales/res/README.md)
-- [LLMs Locales 2](llms-locales-DFO/README.md)
-- [LLMs Locales 3](LLMs-LOCALES-TMS/LLMs-LOCALES/README.md)
-- [Privacidad y Seguridad Proyectos](privacidad-seguridad-proyectos-tech/privacidad-seguridad-proyectos-tech.md)
+- [Derechos de Autor en Imágenes Generadas por LLM](derechos_autor_imagenes_generadas_llm/README.md)
+
+### Aplicaciones Prácticas
+- [Riesgos de Seguridad y Privacidad con la IA en Desarrollo de Aplicaciones](protocolo-seguridad-software/README.md)
+- [Salvaguarda de la Privacidad y Seguridad en Deep Learning y LLMs](privacidad-seguridad-proyectos-tech/privacidad-seguridad-proyectos-tech.md)
